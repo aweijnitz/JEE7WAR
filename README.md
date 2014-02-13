@@ -8,7 +8,7 @@ Empty JEE 7 Web Profile project based on Adam Bien's Essentials Archetype with a
 - Java SDK installed (min Java 1.7)
 - Maven 3
 - [Wildfly 8](http://wildfly.org/) installed
-- $WILDFLY_HOME/bin in path (needed to run the deploy, status and undeploy scripst, but not for building)
+- $WILDFLY_HOME/bin in path (needed to run the deploy, status and undeploy scripts, but not for building)
 
 
 ## Install and first deploy
