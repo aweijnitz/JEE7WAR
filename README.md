@@ -22,14 +22,21 @@ Empty JEE 7 Web Profile project based on Adam Bien's Essentials Archetype with a
 ## Using
 
 _Building_
+
 ```mvn clean install```
 
 _Build, deploy and show status_
+
 ```mvn clean install && ./deploy.sh && ./status.sh```
 
 Point browser to http://localhost:8080/MyWebApp
-or do ```curl http://localhost:8080/MyWebApp/ ```
+or do
+
+```curl http://localhost:8080/MyWebApp/ ```
 
 _Undeploy project from Wildfly_
+
 ```./undeploy.sh```
+
+
 
