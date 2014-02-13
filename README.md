@@ -36,7 +36,7 @@ or do
 
 _Undeploy project from Wildfly_
 
-```./undeploy.sh```
+```./undeploy.sh ```
 
 
 
