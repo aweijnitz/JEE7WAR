@@ -1,7 +1,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 
-    <!-- Basic JEE7 Web Profile POM, enhanced with the WildFly8 plugi for deployment
+    <!-- Basic JEE7 Web Profile POM, enhanced with the WildFly8 plugi for deployment.
 
         Based on the JEE7 Essentials Archetype by Adam Bien
         https://github.com/AdamBien/javaee7-essentials-archetype
