@@ -6,3 +6,9 @@
 *.ear
 
 target/
+
+# Eclipse specifics #
+.tern-project
+.project
+.settings
+.classpath
